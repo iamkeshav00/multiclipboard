@@ -1,6 +1,6 @@
 # Multiclipboard
 This multicliboard program save data for a field  you want to use again and again on your pc and now when ever you need data for that field you can just use win+r key and type their and the value will automatically get copy .
-USAGE:
+USAGE:\n
 1.Open the run and type the program name "af"
 2.Than type the thing you want to get copied to your clipboard
 3.if the data is not saved for that value that it will show no presaved value
